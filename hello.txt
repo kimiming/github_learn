@@ -1,1 +1,11 @@
-mi
+kimi
+今天学了git使用
+通过git将本地的项目寄托到github上
+1、在本地项目的目录上打开git bash
+2、输入初始化命令 git init，将本地目录初始化为仓库
+3、然后登陆github，新建一个仓库
+4、将新建的仓库远程连接复制到本地的git bash上
+5、输入github账号密码
+6、通过git add.跟新你本地仓库
+7、通过git commit -m"这次更新的内容主题名字"，更新这次修改文件的主题
+8、通过git push -u origin master 来将这次的仓库更新推送到github上
